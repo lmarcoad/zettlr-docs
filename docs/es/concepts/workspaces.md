@@ -26,4 +26,4 @@ No puedes abrir archivos directamente al interior de la app. En cambio, se abrir
 
 Los archivos independientes siempre se ordenan sobre las áreas de trabajo, donde pueda acceder a ellas fácilmente. También puede "cerrarlos", lo que quiere decir que ellos serán desmontados de la aplicación, pero los deja sin tocar, o removerlos, lo que quiere decir que Zettlr los desmontará de la aplicación y además los moverá a la papelera de reciclaje.
 
-> Este comportamiento hace que sea simple cargar uno o dos archTvos adicionales en Markdown en la aplicación que no estén cargados en un área de trabajo. Esto tiene sentido, por ejemplo, para desarrolladores de software que solo quieren editar el archivo Readme de sus proyectos sin cargar todo un directorio en Zettlr.
+> Este comportamiento hace que sea simple cargar uno o dos archivos adicionales en Markdown en la aplicación que no estén cargados en un área de trabajo. Esto tiene sentido, por ejemplo, para desarrolladores de software que solo quieren editar el archivo Readme de sus proyectos sin cargar todo un directorio en Zettlr.
