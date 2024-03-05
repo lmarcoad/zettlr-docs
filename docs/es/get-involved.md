@@ -34,7 +34,7 @@ Hemos implementado un sistema de gestión de calidad centrado en el usuario, que
 
 [Para más información, por favor mire la guía corta de nuestro servicio de traducción](https://translate.zettlr.com/welcome).
 
-## Desarollo
+## Desarrollo
 
 Para empezar a desarrollar, simplemente [derive el repositorio](https://github.com/Zettlr/Zettlr), trabaje en las funcionalidades, corrección de errores, etc. y luego abra un _pull-requests_ (o PR - acrónimo para solicitud de extracción en inglés). Por favor recuerde  **¡sólo hacer un PR a la rama de desarrollo!** La rama maestra (o _master-branch_) es solo publicada (_pushed_) cada vez que se está redactando una nueva versión. Así que si está desarrollando una nueva funcionalidad y una nueva versión de  Zettlr se ha publicado, puede simplemente publicar (_pull_) la rama principal (`upstream master`) para estar al día de nuevo y continuar redactando su funcionalidad.
 
@@ -180,7 +180,7 @@ Zettlr is a mature app that has amassed hundreds of directories over the course 
 └── test                           # Unit tests
 ```
 
-### Sobre la diferencia entrO módulos y proveedores de servicios
+### Sobre la diferencia entre módulos y proveedores de servicios
 
 You'll notice that Zettlr contains both "modules" and "service providers". The difference between the two is simple: Service providers run in the main process and are completely autonomous while providing functionality to the app as a whole. Modules, on the other hand, provide functionality that must be triggered by user actions (e.g. the exporter and the importer).
 
